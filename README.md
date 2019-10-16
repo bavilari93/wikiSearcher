@@ -13,10 +13,10 @@ Users can click see single search entry and go back home from that card.
 
 # Api
 MediaWiki Action API : a restful web service for searching by a query action
-request parameters: 
-action = opensearch -> query module 
-search = holds the search string 
-format = json -> the output format of the info
+  request parameters: 
+- action = opensearch -> query module 
+- search = holds the search string 
+- format = json -> the output format of the info
 
 ei: https://en.wikipedia.org/w/api.php?action=opensearch&search=bianca&format=json
 
